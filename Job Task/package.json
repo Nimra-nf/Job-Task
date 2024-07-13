@@ -1,0 +1,9 @@
+{
+  "name": "job-task",
+  "version": "0.0.0",
+  "description": "Job Task",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
